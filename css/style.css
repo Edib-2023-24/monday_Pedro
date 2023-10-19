@@ -19,7 +19,7 @@
 /* ******************************** */
 body{
 
-background-color: rgb(85, 22, 22);
+margin: 0;
 
 
 }
@@ -29,7 +29,7 @@ background-color: rgb(85, 22, 22);
   flex-direction: column;
 width: 24.375rem;
 height: 52.75rem;
-background-color: rgb(173, 132, 132);
+background-color: rgb(12, 11, 11);
 
 }
 
